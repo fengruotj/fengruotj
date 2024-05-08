@@ -5,6 +5,7 @@
 - I'm experienced at:
   - distributed frameworks: Flink/Spark/Alluxio/Ray/Hadoop/HDFS.
   - computing patterns: streaming/batch computing.
+  - cloud native computing.
   - computing format: Arrow/Parquent/ORC.
 - Currrently I'm focusing on bigdata, streaming processing system.
 - 📫 How to reach me:
