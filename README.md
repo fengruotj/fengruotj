@@ -4,8 +4,7 @@
   - [ICDE'23](https://doi.org/10.1109/ICDE55515.2023.00262): Cougar: A General Framework for Jobs Optimization In Cloud.
 - I'm experienced at:
   - distributed frameworks: Flink/Spark/Alluxio/Ray/Hadoop/HDFS.
-  - computing patterns: streaming/batch computing.
-  - cloud native computing.
+  - computing patterns: streaming/batch computing and cloud native computing.
   - computing format: Arrow/Parquent/ORC.
 - Currrently I'm focusing on bigdata, streaming processing system.
 - 📫 How to reach me:
